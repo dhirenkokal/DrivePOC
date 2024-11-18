@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949288653177",
+    "project_id": "drive-sync---poc",
+    "storage_bucket": "drive-sync---poc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949288653177:android:252af80fa0f5da789edfa8",
+        "android_client_info": {
+          "package_name": "com.example.drivepoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949288653177-99q36s61ntjg8p99jv99h8opb8ae4hk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drivepoc",
+            "certificate_hash": "fd28383513bb4d113ee01926d2f8bd913e4d6c18"
+          }
+        },
+        {
+          "client_id": "949288653177-ta7vggfktamh0jpjv7htuqs9jdcb2hnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaaD7eENmmM9DoSVlfrkJeuiq-CyEAzRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949288653177-b0gve560uh6vqs8fbpa4q8k3bd0sp0pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
